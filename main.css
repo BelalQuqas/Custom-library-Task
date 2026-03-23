@@ -4,3 +4,7 @@
 .services-section .divider {
   background-color: var(--darkColor);
 }
+.services-grid {
+  flex: 1 1 220px;
+  max-width: 300px;
+}
