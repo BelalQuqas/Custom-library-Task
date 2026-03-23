@@ -1,0 +1,6 @@
+.hero {
+  background-image: url('assets/img/heroimage.jpg');
+}
+.services-section .divider {
+  background-color: var(--darkColor);
+}
