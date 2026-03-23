@@ -8,3 +8,9 @@
   flex: 1 1 220px;
   max-width: 300px;
 }
+.download-section h2 {
+  font-style: italic;
+  font-weight: 400;
+  color: var(--whiteColor);
+  margin-bottom: calc(var(--spacer) * 4);
+}
